@@ -4,8 +4,8 @@ version: 1.0.0
 main: santana\colorful\ColorfulChat
 api: [ 4.0.0 ]
 author: Santana#9999
-description: A Chat Color Personlization Plugin for your Minecraft: Bedrock Server.
+description: "A Chat Color Personlization Plugin for your Minecraft: Bedrock Server."
 permissions:
   colorfulchat.command.use:
-    default: false
+    default: op
 ...
