@@ -1,2 +1,2 @@
 # ColorChat
-A Chat Color Personlization Plugin for your Minecraft: Bedrock Server.
+A Chat Color Personlization Plugin for Minecraft: Bedrock Server.
